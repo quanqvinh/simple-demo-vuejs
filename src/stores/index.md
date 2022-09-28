@@ -1,0 +1,1 @@
+### Folder dùng để lưu các state (bằng vuex hay pinia)
